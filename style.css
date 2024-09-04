@@ -1,4 +1,15 @@
 body{
-    background-color: rgba(61, 61, 209, 0.829)
+    background-color: #2929d1d3;
+    font-family: "Sevillana", system-ui;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+
+    background-color: aquamarine;
     font-family: "Sevillana", system-ui;
 }
